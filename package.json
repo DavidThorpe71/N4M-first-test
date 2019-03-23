@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/DavidThorpe71/N4M-first-test/issues"
   },
-  "homepage": "https://github.com/DavidThorpe71/N4M-first-test#readme"
+  "homepage": "https://github.com/DavidThorpe71/N4M-first-test#readme",
+  "dependencies": {
+    "tonal": "^3.0.0-alpha1",
+    "tonal-chord": "^2.2.1",
+    "tonal-detect": "^2.2.1"
+  }
 }
